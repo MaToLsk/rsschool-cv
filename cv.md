@@ -18,7 +18,7 @@
 
 
 
-### code example
+### Code example
 
 ```javascript
 const func = (num) => {
