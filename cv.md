@@ -1,8 +1,6 @@
 # Alexandr Korshunov
 
-----------------------------------------------
-
-e-mail:aleksandr.lsk@gmail.com
+e-mail: http://aleksandr.lsk@gmail.com
 
 
 
