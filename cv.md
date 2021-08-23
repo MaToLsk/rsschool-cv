@@ -29,6 +29,13 @@ const func = (num) => {
 };
 ```
 
+### Languages
+
+1. English (translation)
+1. Deutsch (translation)
+1. Kazah (translation)
+
+
 ### Wise words
 
 > Live and be alive
