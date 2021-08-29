@@ -1,0 +1,38 @@
+.body {
+    color: rgb(214, 214, 214);
+    font-family: Tahoma, sans-serif;
+    line-height: 200%;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: rgb(22, 21, 31);
+}
+.line {
+    border-bottom: 1px solid rgb(102, 102, 102);
+    }
+
+h1 {
+    font-size: 24 px;        
+}
+
+.aboutme {
+    font-style: italic;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+li {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.code-text {
+    line-height: normal;
+    font-size: 16px;
+    background-color: rgba(128, 128, 128, 0.055);
+    padding: 1px;
+}
